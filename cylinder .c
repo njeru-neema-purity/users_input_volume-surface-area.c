@@ -2,8 +2,8 @@
 #define PI 3.142
 
 int main() {
-    float radius;
-    float height;
+    float radius=7;
+    float height=10;
     float volume, surfaceArea;
 
     printf("Enter the radius of the cylinder: ");
